@@ -1,0 +1,19 @@
+{
+    "resourceType": "Patient",
+    "id": "FHIR-99",
+    "name": [
+        {
+            "family": "Doe",
+            "given": [
+                "John"
+            ]
+        }
+    ],
+    "birthDate": "1951-05-15",
+    "extension": [
+        {
+            "url": "conditions",
+            "valueString": "Diabetes, Heart Disease"
+        }
+    ]
+}
